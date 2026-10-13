@@ -1,0 +1,15 @@
+DRAFT RESTOCKING ORDER
+======================
+Status:        DRAFT - NOT PLACED (no real order submitted)
+Supplier:      B
+Unit cost:     $85 / bag
+Lead time:     5 days
+Quantity:      20 bags
+Line total:    $1,700
+
+Notes
+-----
+- Current on-hand stock: 5 bags of rice.
+- Supplier B saves $15/bag vs. Supplier A ($100), but delivers 3 days later.
+- Risk: with a 5-day lead time, stock may run out if sales exceed ~1 bag/day.
+- Quantity: 20 bags. New total on hand after delivery: 25 bags (5 current + 20).
